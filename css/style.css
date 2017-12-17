@@ -1,0 +1,14 @@
+
+
+.mainContainer {
+  width:90vh;
+  margin:0 1%;
+  float: left;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid black;
+  height: 45vh;
+  overflow: scroll;
+}
+
+
